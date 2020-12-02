@@ -26,7 +26,7 @@
   }
 }
 
-@media all and (max-width 320px) {
+@media all and (max-width: 320px) {
   .lead {
     padding: 48px 0 0;
   }
