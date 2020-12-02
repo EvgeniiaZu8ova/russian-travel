@@ -1,0 +1,12 @@
+.table__link {
+  font-size: 18px;
+  line-height: 1.22;
+  color: #FFFFFF;
+  font-weight: normal;
+  opacity: 1;
+  transition: opacity 0.2s ease-in 0.1s;
+}
+
+.table__link:hover {
+  opacity: 0.8;
+}

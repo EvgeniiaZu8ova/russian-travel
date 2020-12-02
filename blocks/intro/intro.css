@@ -1,0 +1,35 @@
+.intro {
+  background-color: #2A2C2F;
+  margin: 0 auto;
+  box-sizing: border-box;
+}
+
+@media (min-width: 320px) {
+  .intro {
+    padding: 53px 16px;
+  }
+}
+
+@media screen and (min-width: 768px) {
+  .intro {
+    padding: 80px 24px 90px;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .intro {
+    padding: 94px 286px 96px 48px;
+  }
+}
+
+@media screen and (min-width: 1280px) {
+  .intro {
+    padding: 95px 442px 93.5px 148px;
+  }
+}
+
+@media (max-width: 320px) {
+  .intro {
+    padding: 53px 16px;
+  }
+}

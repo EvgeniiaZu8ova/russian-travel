@@ -1,0 +1,6 @@
+.table__heading {
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-end;
+  width: 100%;
+}

@@ -1,0 +1,32 @@
+.intro__content {
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 690px;
+}
+
+@media screen and (min-width: 320px) {
+  .intro__content {
+    width: 288px;
+  }
+}
+
+@media screen and (min-width: 768px) {
+  .intro__content {
+    width: 720px;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .intro__content {
+    width: 690px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .intro__content {
+    width: 288px;
+  }
+}
