@@ -1,5 +1,6 @@
-# Проект 3: Путешествие по России
-https://github.com/EvgeniiaZu8ova/russian-travel.git
+# Проект 3: Путешествие по России  
+
+https://evgeniiazu8ova.github.io/russian-travel/
 
 ### Обзор
 * Интро
