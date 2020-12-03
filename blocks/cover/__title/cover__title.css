@@ -3,6 +3,7 @@
   z-index: 1;
   text-align: center;
   margin: 0;
+  font-weight: 900;
 }
 
 @media all and (min-width: 320px) {

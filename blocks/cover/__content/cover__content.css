@@ -8,6 +8,7 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  text-decoration: none;
 }
 
 .cover__content::before {
@@ -28,20 +29,20 @@
 @media all and (min-width: 320px) {
   .cover__content {
     width: 100vw;
-    height: 62.5vw;
+    min-height: 62.5vw;
   }
 }
 
 @media screen and (min-width: 1280px) {
   .cover__content {
     width: 1184px;
-    height: 740px;
+    min-height: 740px;
   }
 }
 
 @media all and (max-width: 320px) {
   .cover__content {
     width: 100vw;
-    height: 62.5vw;
+    min-height: 62.5vw;
   }
 }
