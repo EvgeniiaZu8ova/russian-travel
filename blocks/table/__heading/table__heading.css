@@ -4,3 +4,17 @@
   align-items: flex-end;
   width: 100%;
 }
+
+@media all and (max-width: 767px) {
+  .table__heading {
+    justify-content: center;
+    align-items: center;
+  }
+}
+
+@media all and (max-width: 320px) {
+  .table__heading {
+    justify-content: flex-start;
+    align-items: center;
+  }
+}
